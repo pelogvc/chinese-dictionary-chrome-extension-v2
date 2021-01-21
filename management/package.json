@@ -10,7 +10,7 @@
     "@types/react-redux": "^7.1.4",
     "antd": "^3.23.5",
     "dexie": "^2.0.4",
-    "immer": "^4.0.1",
+    "immer": "^8.0.1",
     "node-sass": "^4.13.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
